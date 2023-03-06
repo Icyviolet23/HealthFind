@@ -1,4 +1,4 @@
-# healthcare_locator
+# healthfind
 
 ## Features
 
