@@ -1,0 +1,4 @@
+blue_marker.png : http://maps.google.com/mapfiles/ms/icons/blue-dot.png
+red_marker.png : http://maps.google.com/mapfiles/ms/icons/red-dot.png
+green_marker.png : http://maps.google.com/mapfiles/ms/icons/green-dot.png
+nearby.png: https://icons8.com/icon/phPD2JagCfme/nearby

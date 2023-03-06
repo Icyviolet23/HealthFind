@@ -1,0 +1,40 @@
+REGION,PROVINCE,CITY,LOCATION,OWNERSHIP_CLASS,Unnamed: 6,NAME OF HOSPITAL,ABC,MEDICAL_DIRECTOR,CLASS,SERVCE CAPABILI TY,CONTACT,EMAIL,FAX,MOBILE,REMARKS,Actual Hospital Name,Mapping_Address,lat,lng
+CAGAYAN VALLEY,CAGAYAN,,NaN,GOVT,Province,NaN,25,NaN,General,Level 1,(078) 377-7499,NaN,NaN,9352910900,NaN,NaN,nan,NaN,NaN
+,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,auroramemhos@gmail.com,NaN,9399222819,from Infirmary to Level 1,NaN,nan,NaN,NaN
+WESTERN VISAYAS,ANTIQUE,San Jose City,NaN,GOVT,Province,NaN,100,NaN,General,Level 2,9173291217,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Brgy. Awang, Datu Odin Sinsuat, Maguindanao",NaN,NaN,CAMP SIONGCO STATION HOSPITAL,NaN,"Dr. Himaya Matas MC, PA",NaN,NaN,NaN,cssh_sixid@yahoo.com,NaN,NaN,NaN,CAMP SIONGCO STATION HOSPITAL,"CAMP SIONGCO STATION HOSPITAL, , ",NaN,NaN
+BARMM,MAGUINDANAO,,NaN,GOVT,DND,NaN,50,NaN,General,Level 1,NaN,NaN,NaN,9176316869,NaN,NaN,nan,NaN,NaN
+PRIVATE,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Singson Street, Rizal,",NaN,NaN,NaN,Dr. Maria Alejandra,NaN,NaN,NaN,pirahospital@yah,077-728-,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"#43 Madarang St., San",NaN,NaN,NaN,Dr. Maureen M. Resonable,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Jose, Candon City, Ilocos",NaN,NaN,NaN,NaN,NaN,NaN,077-742-6162;,resonablehospital,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,NaN,NaN,NaN,NaN,Dr. Emilio Emmauel T. Figueroa V,NaN,NaN,NaN,candongeneral,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Tablac, Candon City,",NaN,NaN,NaN,NaN,NaN,NaN,77-742-6112; 742,hospital@gmai,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"#25 De Marzo St., San",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Antonio, Candon City,",NaN,CANDON ST. MARTIN DE PORRES,NaN,Dr. Modesto A.,NaN,NaN,NaN,ggallandez03,077-742-,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"#28 S. Osmeña St., Vira, Roxas, Isabela",NaN,NaN,NaN,NaN,NaN,NaN,NaN,hospital_dumlao @yahoo.com noemi_dumlao200 0@yahoo.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"National  Hi-way, San Antonio, Alicia, Isabela",NaN,NaN,NaN,NaN,NaN,NaN,NaN,manango_hospita l@yahoo.com drdan18@gmail.c om dan_carl15@yaho o.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"1 AH26, San Manuel, Naguilian, Isabela",NaN,PROVIDERS MULTI-PURPOSE COOPERATIVE MEDICAL CENTER,NaN,NaN,NaN,NaN,NaN,pmpcmedicalcent er@gmail.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+CAGAYAN VALLEY,ISABELA,,NaN,PVT,NaN,35,Dr. Oscar D. Caballero,General,Level 1,(078) 420-3588,NaN,NaN,91762558036,NaN,NaN,NaN,nan,NaN,NaN
+,,Cabanatuan,"Maharlika Hi-way, Daan",NaN,NaN,NaN,NaN,NaN,NaN,(044) 463-7845 -,premiere_medcen,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Maharlika Hi-way,",NaN,NaN,NaN,NaN,NaN,NaN,044-,nedhi_69yahoo.co,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,Cabanatuan,"Sumacab Este,",NaN,NUEVA ECIJA DOCTORS’,NaN,Dr. Alex Clemente,NaN,NaN,9400176/9605500,m/nedh.secretary,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,Cabanatuan,"Tandang Sora Street, Mabini Extension,",NaN,WESLEYAN UNIVERSITY -,NaN,NaN,NaN,NaN,NaN,wuphospital@yah,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,Cabanatuan,"Burgos Avenue, Brgy.",NaN,NUEVA ECIJA GOOD SAMARITAN,NaN,NaN,NaN,NaN,(044) 463-1582 -,negoodsamaritan healthsystem@g,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Circumferential Road, San Juan Accfa, Cabanatuan",NaN,IMMACULATE CONCEPTION,NaN,NaN,NaN,NaN,NaN,immaculateconce,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"San Vicente, Bucana,",NaN,NUEVA ECIJA GOOD SAMARITAN,NaN,NaN,NaN,NaN,NaN,negshsi.marketin,4643969/48,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Mc-Arthur Hi-way, Anupul,",NaN,NaN,NaN,NaN,NaN,NaN,NaN,divinemercyhospi tal_ph@yahoo.co,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"# 1 Magallanes St., Coral,",NaN,NaN,NaN,NaN,NaN,NaN,(045) 931-,bel_esposo@yah,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"# 5Baltazar Subdv.,Pob.",NaN,NaN,NaN,NaN,NaN,NaN,NaN,rayosvalentinhos,(045)931-,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Romulo Hi-way, Palimbo,",NaN,NaN,NaN,Dr. Filomeno R.,NaN,NaN,NaN,salvadorgeneralh ospital@yahoo.co,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"National Highway, Tinamnan, Lucban, Quezon",NaN,NaN,NaN,NaN,NaN,NaN,NaN,hospitallucbanm mg@yahoo.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"General Luna, St., Balante, Ampid I, San Mateo, Rizal",NaN,"PADRE PIO MATERNITY AND MEDICAL HOSPITAL, INC.",NaN,Dr. Ivan Anthony D. Panganiban,NaN,NaN,NaN,padrepio_hospital @yahoo.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+CALABARZON,RIZAL,,NaN,PVT,NaN,25,NaN,General,Level 1,(02) 274-9889,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Ayala Atria Park Dist., Don Donato Pison Ave., Brgy. San Rafael, Mandurriao, Iloilo",NaN,NaN,NaN,NaN,NaN,NaN,NaN,qualimediloilo@q ualimed.com.ph,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,,,"Canmanico, Valencia, Bohol",NaN,CONCEPCION MEMORIAL HOSPITAL,NaN,Dr. Jose F. Montilla,NaN,NaN,NaN,leonaolim@gmail. com; concepcionmemo rial@gmail.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+CENTRAL VISAYAS,BOHOL,,NaN,PVT,NaN,40,NaN,General,Level 1,(038)532-1252,NaN,-,NaN,NaN,NaN,NaN,nan,NaN,NaN
+,NORTH COTABATO,,"National Highway, Brgy. Kayaga, Kabacan, Cotabato",NaN,DR. R.A.M. ALBUTRA GENERAL HOSPITAL,NaN,NaN,NaN,NaN,NaN,albutragenhospita l@gmail.com,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN
+SOCCSKSARGEN,,,NaN,PVT,NaN,38,Dr. Betty G. Quiapo,General,Level 1,NaN,NaN,NaN,9494203380,NaN,NaN,NaN,nan,NaN,NaN
+,,,"1221 Juan Nolasco St., Tondo, Manila",NaN,NaN,NaN,Dr. Glenn Roy V. Paraso,NaN,NaN,"02-82454026 &
+82454052",maryjohnstonhos pital@yahoo.com. ph,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN

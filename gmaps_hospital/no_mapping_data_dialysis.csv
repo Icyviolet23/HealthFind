@@ -1,0 +1,14 @@
+region,province,city,complete_address,owner_ship,name_of_clinic,no._of_station,head_of_the_facility,contact_number,e_mail_address,validity,remarks,mapping_address,lat,lng,current_distance,gmaps_url,index
+REGION,PROVINCE,CITY,COMPLETE ADDRESS,OWNER SHIP,NAME OF CLINIC,NO. OF STATION,HEAD OF THE FACILITY,CONTACT NUMBER,EMAILADDRESS,VALIDITY,REMARKS,COMPLETE ADDRESS,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,21.0
+REGION,PROVINCE,CITY,COMPLETE ADDRESS,OWNER SHIP,NAME OF CLINIC,NaN,NO. OF STATION,HEAD OF THE FACILITY,CONTACTNUMBER,E MAIL ADDRESS,VALIDITY,COMPLETE ADDRESS,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,103.0
+NaN,CEBU,Cebu City,NaN,PVT,NaN,15,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,295.0
+NaN,BOHOL,NaN,NaN,PVT,NaN,10,Dr. Uriel Baclayon,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,312.0
+NCR,Mandaluyong City,NaN,NaN,PVT,GRACE DIALYSIS CENTER,14,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,451.0
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,459.0
+NCR,Marikina City,NaN,"3/F South Station, Green Bldg., Filinvest		",PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,"3/F South Station, Green Bldg., Filinvest",NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,465.0
+NCR,Muntinlupa City,NaN,NaN,PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,468.0
+NCR,Muntinlupa City	,NaN,"HEMOTEK RENAL CENTER,		",PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,HEMOTEK RENAL CENTER,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,469.0
+NCR,Muntinlupa City	,NaN, MED LINE DIALYSIS CENTER,PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MED LINE DIALYSIS CENTER,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,470.0
+NCR,Muntinlupa City                         ,NaN,ST. MARGARETH DIALYSIS					,PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,ST. MARGARETH DIALYSIS,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,471.0
+NCR,Para�aque City,NaN,NaN,PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,472.0
+NCR,Marikina City,NaN,NaN,PVT,NaN,NaN,NaN,NaN,NaN,NaN,NaN,nan,NaN,NaN,Click the compass to find out!,https://www.google.com/maps/dir/?api=1,473.0
