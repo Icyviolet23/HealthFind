@@ -1,4 +1,4 @@
-# healthfind (https://www.youtube.com/watch?v=wQhPyFnE16M)
+# HealthFind (https://www.youtube.com/watch?v=wQhPyFnE16M)
  
 ## Features
 
